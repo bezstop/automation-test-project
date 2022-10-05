@@ -2,7 +2,7 @@
 automation-test-project - проекты по AT selenide/selenium
 
 # Selenide:
-  appleinsider.
-  HH.
+* appleinsider.
+* HH.
 # Selenium
   helpDesk
