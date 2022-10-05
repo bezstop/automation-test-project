@@ -1,5 +1,5 @@
 # automation-test-project
-automation-test-project - проекты по AT selenide/selenium
+Проекты по AT selenide/selenium
 
 # Selenide:
 * [appleinsider.ru](https://appleinsider.ru/)
