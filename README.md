@@ -2,7 +2,7 @@
 automation-test-project - проекты по AT selenide/selenium
 
 # Selenide:
-* [appleinsider.](https://appleinsider.ru/)
-* https://hh.ru/
+* [appleinsider.ru](https://appleinsider.ru/)
+* [Head Hunter](https://hh.ru/)
 # Selenium:
   helpDesk
