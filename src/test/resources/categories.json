@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Неизвестная проблема",
+    "matchedStatuses": [
+      "broken",
+      "failed"
+    ],
+    "messageRegex": ".*что-то пошло не так.*"
+  },
+  {
+    "name": "Нет данных",
+    "matchedStatuses": [
+      "broken"
+    ],
+    "traceRegex": ".*NullPointerException.*"
+  },
+  {
+    "name": "Product defects",
+    "matchedStatuses": [
+      "failed"
+    ]
+  },
+  {
+    "name": "Ожидали одно, получили другое",
+    "matchedStatuses": [
+      "failed"
+    ],
+    "messageRegex": ".*expected.*"
+  },
+  {
+
+    "name": "Test defects",
+    "matchedStatuses": [
+      "broken"
+    ]
+  }
+]
